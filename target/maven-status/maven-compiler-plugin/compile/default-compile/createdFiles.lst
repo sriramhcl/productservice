@@ -1,0 +1,5 @@
+com\hcl\springcloud\productservice\controller\ProductRestController.class
+com\hcl\springcloud\productservice\ProductserviceApplication.class
+com\hcl\springcloud\productservice\model\Product.class
+com\hcl\springcloud\productservice\repository\ProductRepository.class
+com\hcl\springcloud\productservice\model\Coupon.class
